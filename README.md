@@ -35,9 +35,13 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A good speed to VirginiaGray, Robert, 16th/17th cent.1609Approx. 50 KB of XML-encoded text transcrib
+
+1. TO THE RIGHT NOBLE AND HONORABLE EARLES, BARONS and Lords, and to the Right Worſhipfull Knights, Merchants and Gentlemen, Aduenturers for the plantation of Virginea, all happie and proſperous ſucceſſe, which may either augment your glorie, or increaſe your wealth, or purchaſe your eternitie.
+
 #####Body#####
-A good speed to VirginiaGray, Robert, 16th/17th cent.1609Approx. 50 KB of XML-encoded text transcrib
+
+1. GOOD SPEEDE TO Virginia.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
